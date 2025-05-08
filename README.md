@@ -1,4 +1,4 @@
-# Stories in Data 📚📊
+# Stories in Data
 
 This project explores stories hidden within data through visualizations across fields like economics, health, environment, and society.
 
