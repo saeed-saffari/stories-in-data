@@ -1,6 +1,6 @@
 # Stories in Data 📚📊
 
-This project explores the stories hidden within data through visualizations.
+This project explores stories hidden within data through visualizations across fields like economics, health, environment, and society.
 
 Each plot is linked with its code and dataset for easy exploration.
 
