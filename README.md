@@ -33,6 +33,13 @@ This section highlights weekly data stories created from public datasets, with l
 #### • Men
 <img src="plots/unemp_men_atlantic_2022_25.png" width="60%">
 
+<p float="left">
+  <img src="plots/unemp_total_atlantic_2022_25.png" width="30%" />
+  <img src="plots/unemp_women_atlantic_2022_25.png" width="30%" />
+  <img src="plots/unemp_men_atlantic_2022_25.png" width="30%" />
+</p>
+
+
 
 
 
