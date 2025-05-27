@@ -30,7 +30,31 @@ This section highlights weekly data stories created from public datasets, with l
 
 ---
 
+### $\bullet$ Building Permits Overview in Atlantic Canada (2021–2025)
 
+**Notebook:** [`building%20permit.ipynb`](Code/building%20permit.ipynb)  
+**LinkedIn Post:** [Read the analysis](https://www.linkedin.com/posts/saeed-saffari_atlanticcanada-buildingpermits-datavisualization-activity-7328969098942365696-3UVM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8)  
+**Focus:** Trends in total and per capita building permit values across Atlantic provinces (2021–2025), including growth patterns and province-level differences.
 
+<p float="left">
+  <img src="plots/building_permit_2021_2025" width="30%" />
+  <img src="plots/building_permit_per_capita_2021_2025" width="30%" />
+  <img src="plots/building_permit_per_capita_average_2021_2025" width="30%" />
+</p>
+
+---
+
+### $\bullet$ Food Expenditures in Canada (2021)
+
+**Notebook:** [`Food_expenditures.ipynb`](Code/Food_expenditures.ipynb)  
+**LinkedIn Post:** [Read the analysis](https://www.linkedin.com/posts/saeed-saffari_datavisualization-economics-householdspending-activity-7324982510910586880-A2-U?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8)  
+**Focus:** Breakdown of food expenditure categories for Canadian households, including province-level comparisons.
+
+<p float="left">
+  <img src="plots/food_exp_2021_0" width="40%" />
+  <img src="plots/food_exp_2021_on_total_0." width="40%" />
+</p>
+
+---
 
 
