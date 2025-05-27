@@ -26,13 +26,12 @@ This section highlights weekly data stories created from public datasets, with l
 #### • Total Population
 <img src="plots/unemp_total_atlantic_2022_25.png" width="60%">
 
-![Unemployment Total](plots/unemp_total_atlantic_2022_25.png)
-
 #### • Women
-![Unemployment Women](plots/unemp_women_atlantic_2022_25.png)
+<img src="plots/unemp_women_atlantic_2022_25.png" width="60%">
+
 
 #### • Men
-![Unemployment Men](plots/unemp_men_atlantic_2022_25.png)
+<img src="plots/unemp_men_atlantic_2022_25.png" width="60%">
 
 
 
