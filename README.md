@@ -4,18 +4,18 @@ This project explores stories hidden within data through visualizations across f
 
 Each plot is linked with its code and dataset for easy exploration.
 
+---
 ## 📂 Structure
 - `plots/` – Visualizations
 - `code/` – Jupyter Notebooks
 - `data/` – Source datasets
 
-
+---
 ## Notebooks & Visual Analyses
 
 This section highlights weekly data stories created from public datasets, with links to the notebooks, visual outputs, and related posts.
 
----
-
+--
 ### Unemployment Trends in Atlantic Canada (2022–2025)
 
 **Notebook:** [`unemployment_atlantic_2022_25.ipynb`](Code/unemployment_atlantic_2022_25.ipynb)  
