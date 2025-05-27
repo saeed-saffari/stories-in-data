@@ -22,22 +22,13 @@ This section highlights weekly data stories created from public datasets, with l
 **LinkedIn Post:** [Read the analysis]([https://www.linkedin.com/in/your-post-link-here](https://www.linkedin.com/posts/saeed-saffari_unemployment-atlanticcanada-datavisualization-activity-7333095891005816832-tr6e?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8))  
 **Focus:** Monthly unemployment rates (seasonally adjusted) for total population, women, and men across Newfoundland and Labrador, Prince Edward Island, Nova Scotia, and New Brunswick.
 
-
-#### • Total Population
-<img src="plots/unemp_total_atlantic_2022_25.png" width="60%">
-
-#### • Women
-<img src="plots/unemp_women_atlantic_2022_25.png" width="60%">
-
-
-#### • Men
-<img src="plots/unemp_men_atlantic_2022_25.png" width="60%">
-
 <p float="left">
   <img src="plots/unemp_total_atlantic_2022_25.png" width="30%" />
   <img src="plots/unemp_women_atlantic_2022_25.png" width="30%" />
   <img src="plots/unemp_men_atlantic_2022_25.png" width="30%" />
 </p>
+
+
 
 
 
