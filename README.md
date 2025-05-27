@@ -15,7 +15,7 @@ Each plot is linked with its code and dataset for easy exploration.
 
 This section highlights weekly data stories created from public datasets, with links to the notebooks, visual outputs, and related posts.
 
----
+
 
 ### $\bullet$ Unemployment Trends in Atlantic Canada (2022–2025)
 
