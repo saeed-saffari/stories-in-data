@@ -18,7 +18,7 @@ This section highlights weekly data stories created from public datasets, with l
 ### $\bullet$ Canada’s Investment Income Overview (2010–Q1 2025)
 
 **Notebook:** [`Balance_of_international_payments_Q1_2025.ipynb.ipynb`](Code/Balance_of_international_payments_Q1_2025.ipynb)  
-**LinkedIn Post:** [Read the analysis](link)  
+**LinkedIn Post:** [Read the analysis](https://www.linkedin.com/posts/saeed-saffari_canadaeconomy-investmentincome-datavisualization-activity-7335636422273458177-RVHx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8)  
 **Focus:** Quarterly trends in Canada’s investment income receipts, sources of income (direct, portfolio, interest), and the evolution of net investment income (receipts vs. payments) from 2010 to Q1 2025.
 
 <p float="left">
