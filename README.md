@@ -15,7 +15,22 @@ Each plot is linked with its code and dataset for easy exploration.
 
 This section highlights weekly data stories created from public datasets, with links to the notebooks, visual outputs, and related posts.
 
+### $\bullet$ Canada’s Investment Income Overview (2010–Q1 2025)
 
+**Notebook:** [`Balance_of_international_payments_Q1_2025.ipynb.ipynb`](Code/Balance_of_international_payments_Q1_2025.ipynb)  
+**LinkedIn Post:** [Read the analysis](link)  
+**Focus:** Quarterly trends in Canada’s investment income receipts, sources of income (direct, portfolio, interest), and the evolution of net investment income (receipts vs. payments) from 2010 to Q1 2025.
+
+<p float="left">
+  <img src="plots/Investment_Income_Quarterly_by_year.png" width="45%" />
+  <img src="plots/Sources_Investment_Income.png" width="45%" />
+</p>
+<p float="left">
+  <img src="plots/Investment_Income_inflows_outflows.png" width="45%" />
+  <img src="plots/Net_Investment.png" width="45%" />
+</p>
+
+---
 
 ### $\bullet$ Unemployment Trends in Atlantic Canada (2022–2025)
 
