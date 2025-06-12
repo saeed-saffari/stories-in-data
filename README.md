@@ -18,7 +18,7 @@ This section highlights weekly data stories created from public datasets, with l
 ### $\bullet$ Atlantic Canada Food Price Trends (2017–2025)
 
 **Notebook:** [`Atlantic_Food_Price_Trends.ipynb`](Code/Atlantic_Food_Price_Trends.ipynb)  
-**LinkedIn Post:** [Read the analysis]()  
+**LinkedIn Post:** [Read the analysis](https://www.linkedin.com/posts/saeed-saffari_datavisualization-statisticscanada-atlanticcanada-activity-7338905451717173248-O_eJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8)  
 **Focus:** Monthly and quarterly trends in retail food prices across the Atlantic provinces, including essential items, proteins, and fresh produce. The analysis highlights cumulative inflation patterns, seasonal variations, and provincial price differences from 2017 to 2025.
 
 <p float="left">
