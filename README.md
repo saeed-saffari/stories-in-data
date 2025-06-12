@@ -15,9 +15,26 @@ Each plot is linked with its code and dataset for easy exploration.
 
 This section highlights weekly data stories created from public datasets, with links to the notebooks, visual outputs, and related posts.
 
+### $\bullet$ Atlantic Canada Food Price Trends (2017–2025)
+
+**Notebook:** [`Atlantic_Food_Price_Trends.ipynb`](Code/Atlantic_Food_Price_Trends.ipynb)  
+**LinkedIn Post:** [Read the analysis]()  
+**Focus:** Monthly and quarterly trends in retail food prices across the Atlantic provinces, including essential items, proteins, and fresh produce. The analysis highlights cumulative inflation patterns, seasonal variations, and provincial price differences from 2017 to 2025.
+
+<p float="left">
+  <img src="plots/Protein_Price_Trends_Atlantic_Quarterly.png" width="45%" />
+  <img src="plots/Seasonal_Price_Variation_Fresh_Produce.png" width="45%" />
+</p>
+<p float="left">
+  <img src="plots/Essential_Item_Prices_Atlantic_Past_Year.png" width="45%" />
+  <img src="plots/Price_Change_Key_Products_Atlantic_Provinces.png" width="45%" />
+</p>
+
+---
+
 ### $\bullet$ Canada’s Investment Income Overview (2010–Q1 2025)
 
-**Notebook:** [`Balance_of_international_payments_Q1_2025.ipynb.ipynb`](Code/Balance_of_international_payments_Q1_2025.ipynb)  
+**Notebook:** [`Balance_of_international_payments_Q1_2025.ipynb`](Code/Balance_of_international_payments_Q1_2025.ipynb)  
 **LinkedIn Post:** [Read the analysis](https://www.linkedin.com/posts/saeed-saffari_canadaeconomy-investmentincome-datavisualization-activity-7335636422273458177-RVHx?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8)  
 **Focus:** Quarterly trends in Canada’s investment income receipts, sources of income (direct, portfolio, interest), and the evolution of net investment income (receipts vs. payments) from 2010 to Q1 2025.
 
