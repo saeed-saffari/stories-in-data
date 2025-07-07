@@ -19,7 +19,7 @@ This section highlights weekly data stories created from public datasets, with l
 ### $\bullet$ Canadian Tourism Sector: Trends and Seasonality (2010–2025)
 
 **Notebook:** [`Tourism_Q1_2025.ipynb`](Code/Tourism_Q1_2025.ipynb)  
-**LinkedIn Post:** [Read the analysis]()  
+**LinkedIn Post:** [Read the analysis](https://www.linkedin.com/posts/saeed-saffari_datavisualization-statisticscanada-tourismcanada-activity-7347809674160664576-69Vt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABxmMQ8BrNvrJPWFJDGu5MP-misJR-duct8)  
 **Focus:** A multi-dimensional look at Canada’s tourism sector using Statistics Canada data, including GDP share (2010–2025), demand, output, and employment patterns (2022–2025). The project explores quarterly cycles, recovery trends post-COVID, and the relative contribution of key industries such as transportation, accommodation, and food services.
 
 <p float="left">
