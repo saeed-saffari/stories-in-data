@@ -15,6 +15,20 @@ Each plot is linked with its code and dataset for easy exploration.
 
 This section highlights weekly data stories created from public datasets, with links to the notebooks, visual outputs, and related posts.
 
+
+### $\bullet$ Canadian Tourism Sector: Trends and Seasonality (2010–2025)
+
+**Notebook:** [`Tourism_Q1_2025.ipynb`](Code/Tourism_Q1_2025.ipynb)  
+**LinkedIn Post:** [Read the analysis]()  
+**Focus:** A multi-dimensional look at Canada’s tourism sector using Statistics Canada data, including GDP share (2010–2025), demand, output, and employment patterns (2022–2025). The project explores quarterly cycles, recovery trends post-COVID, and the relative contribution of key industries such as transportation, accommodation, and food services.
+
+<p float="left">
+  <img src="plots/tourism_snapshot_Q1_2025.png" width="30%" />
+  <img src="plots/tourism_quarterly_components_2022_2025.png" width="30%" />
+  <img src="plots/tourism_gdp_share_trends_2023_2025.png" width="30%" />
+</p>
+
+
 ### $\bullet$ Atlantic Canada Food Price Trends (2017–2025)
 
 **Notebook:** [`Atlantic_Food_Price_Trends.ipynb`](Code/Atlantic_Food_Price_Trends.ipynb)  
